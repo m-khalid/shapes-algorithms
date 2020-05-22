@@ -1,0 +1,3 @@
+C:\Users\Muhammad\Documents\Visual Studio 2013\Projects\Software Package\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Muhammad\Documents\Visual Studio 2013\Projects\Software Package\Drawing\obj\Debug\Drawing.exe
+C:\Users\Muhammad\Documents\Visual Studio 2013\Projects\Software Package\Drawing\obj\Debug\Drawing.pdb
